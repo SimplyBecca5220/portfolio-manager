@@ -1,4 +1,4 @@
-import { FC, useState, useEffect } from 'react';
+import { type FC, useState, useEffect } from 'react';
 import { useWallet } from '@solana/wallet-adapter-react';
 import { AgentAnalysis } from './AgentAnalysis';
 import { FrenzyFactor } from './FrenzyFactor';

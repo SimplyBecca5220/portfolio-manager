@@ -1,4 +1,4 @@
-import { FC } from 'react';
+import type { FC } from 'react';
 import { WalletMultiButton } from '@solana/wallet-adapter-react-ui';
 import { ShieldAlert } from 'lucide-react';
 

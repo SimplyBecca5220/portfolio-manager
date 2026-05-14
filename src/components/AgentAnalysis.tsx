@@ -1,4 +1,4 @@
-import { FC, useState } from 'react';
+import { type FC, useState } from 'react';
 import { Cpu, Anchor, Tornado, TrendingUp, Shield, Activity, BarChart2 } from 'lucide-react';
 
 interface Props {

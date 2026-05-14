@@ -1,4 +1,4 @@
-import { FC, useState } from 'react';
+import { type FC, useState } from 'react';
 import { Lock, Unlock, Zap } from 'lucide-react';
 import { useWallet } from '@solana/wallet-adapter-react';
 
